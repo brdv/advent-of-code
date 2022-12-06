@@ -42,6 +42,7 @@ def run_day_four() -> None:
 
     print("  Part Two")
     print(f"    Total overlaps: {total_overlaps}")
+    print()
 
 
 if __name__ == "__main__":
