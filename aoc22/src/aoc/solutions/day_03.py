@@ -27,6 +27,7 @@ def pt_two(lines: list[str]):
 
 
 def run_day_three():
+    print("============================================================")
     print("Day Three")
 
     pts_pt_one = 0

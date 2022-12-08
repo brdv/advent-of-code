@@ -16,6 +16,7 @@ def add_points(result: str, hand: str):
 
 
 def run_day_two() -> None:
+    print("============================================================")
     print("Day 2")
 
     # Part one

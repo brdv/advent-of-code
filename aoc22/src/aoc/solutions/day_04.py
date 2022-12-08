@@ -13,6 +13,7 @@ def get_range_of_elf(elf: str) -> set:
 
 
 def run_day_four() -> None:
+    print("============================================================")
     print("Day Four")
 
     total_subsets = 0

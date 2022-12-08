@@ -8,4 +8,7 @@ __pycache__/
 .mypy_cache/
 /.coverage
 /.coverage.*
+
+#dev files
 old.py
+check.txt

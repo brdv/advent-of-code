@@ -3,6 +3,7 @@ import re
 
 
 def run_day_five() -> None:
+    print("============================================================")
     print("Day Five")
 
     lines = aoc_utils.read_lines_from_file("day_five.txt")

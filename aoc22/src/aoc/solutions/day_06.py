@@ -2,6 +2,7 @@ from aoc import utils as aoc_utils
 
 
 def run_day_six():
+    print("============================================================")
     print("Day Six")
 
     stream = aoc_utils.read_lines_from_file("day_six.txt")[0]
